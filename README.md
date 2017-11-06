@@ -1,6 +1,6 @@
 # TDdevOps
 
-ajouter ces lignes à la fin du fichier host dans le dossier /etc/ansible <br>
+ajouter ces lignes à la fin du fichier hosts dans le dossier /etc/ansible <br>
 
 [servers] <br>
 172.17.0.2 <br>
